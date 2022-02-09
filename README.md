@@ -3,6 +3,8 @@
 
 
 
+![](https://raw.githubusercontent.com/kongqw/CustomCornerView/main/imgs/CustomCornerView.webp)
+
 ## 使用
 
 ``` xml
