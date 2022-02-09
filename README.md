@@ -23,7 +23,7 @@ Step 2. Add the dependency
 
 ``` gradle
 dependencies {
-	implementation 'com.github.kongqw:CustomCornerView:1.0.0'
+	implementation 'com.github.kongqw:CustomCornerView:1.0.1'
 }
 ```
 
