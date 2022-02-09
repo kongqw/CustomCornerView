@@ -14,8 +14,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(mViewBinding.root)
 
 
-//        mViewBinding.webView.loadUrl("https://www.baidu.com")
-//        mViewBinding.webView.loadUrl("http://www.baidu.com")
-        mViewBinding.webView.loadUrl("https://www.iqiyi.com")
+        mViewBinding.webView1.loadUrl("https://github.com/kongqw")
+        mViewBinding.webView2.loadUrl("https://github.com/kongqw")
+        mViewBinding.webView3.loadUrl("https://github.com/kongqw")
+        mViewBinding.webView4.loadUrl("https://github.com/kongqw")
+        mViewBinding.webView5.loadUrl("https://github.com/kongqw")
     }
 }
